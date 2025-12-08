@@ -1,3 +1,15 @@
 # MacOS Files
+*.xcodeproj
 .DS_Store
 ._*
+
+# Xcode specific files
+build/
+DerivedData/
+*.xcuserstate
+*.xcworkspace/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+
+Flashy CardsTests/
+Flashy CardsUITests/
