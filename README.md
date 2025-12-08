@@ -4,7 +4,7 @@ This app is meant to be a flashcard making and practicing app. It's pretty simpl
 
 This is a very basic app that I put together in order to gain a little experience with Swift. I would love to be fluent so I want to continue developing this app and others to continue to get experience. I would love to know enough to write my own apps to fill needs in mine and other's lives.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/c-ERcaLsmGc)
 
 # Development Environment
 
